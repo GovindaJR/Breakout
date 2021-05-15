@@ -1,0 +1,41 @@
+﻿  ball.cpp
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\ball.cpp(49,31): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\ball.cpp(50,34): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\ball.cpp(51,32): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\ball.cpp(52,33): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\ball.cpp(78,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\ball.cpp(102,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\ball.cpp(106,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\ball.cpp(112,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\ball.cpp(116,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\ball.cpp(124,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\ball.cpp(130,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\ball.cpp(131,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\ball.cpp(132,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\ball.cpp(133,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  block.cpp
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\block.cpp(72,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\block.cpp(72,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\block.cpp(72,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\block.cpp(72,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  breakout.cpp
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\breakout.cpp(45,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\breakout.cpp(217,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\breakout.cpp(221,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\breakout.cpp(294,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\breakout.cpp(297,12): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  paddle.cpp
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\paddle.cpp(35,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\paddle.cpp(36,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\paddle.cpp(55,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\paddle.cpp(60,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\paddle.cpp(165,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\paddle.cpp(171,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\paddle.cpp(176,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\paddle.cpp(189,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\paddle.cpp(211,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\paddle.cpp(211,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\paddle.cpp(215,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\paddle.cpp(215,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Breakout_11.vcxproj -> C:\Users\Owner\Desktop\Coding Programs\Coding\C++\Breakout_11\Debug\Breakout_11.exe
